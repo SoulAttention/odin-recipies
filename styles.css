@@ -1,0 +1,25 @@
+.h1 {
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(66, 116, 182);
+}
+.h2 {
+    font-size: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: seagreen;
+    text-align: center;
+    background-color: black;
+}
+.list { 
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blanchedalmond;
+    background-color: black;
+
+}
+.img {
+    height: auto;
+    width: 250px;
+    background-color: black;
+    text-align: center;
+}
